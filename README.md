@@ -21,8 +21,6 @@ Software Developer with focus on security
 - OAuth 2.0 API
 
 ## Get in Touch
-
-- [Email: alhuseynov.taleh@gmail.com](alhuseynov.taleh@gmail.com)
 - [LinkedIn: /in/alhuseynov/](https://www.linkedin.com/in/taleh-alhuseynov/)
 
 ## Activity
