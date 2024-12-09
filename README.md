@@ -5,8 +5,8 @@
 Software Developer with focus on security
 
 ## Skills
-- JavaScript / Node.js / Express.js
-- Python / Django
+- JavaScript / Node.js / Express.js / Nest.js
+- Python
 - Java
 - DBMS / MongoDB / Mongoose
 - REST API
