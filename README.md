@@ -2,20 +2,23 @@
 
 
 ## About Me
-Software Developer with focus on security
+Software Developer with focus on backend.
 
 ## Skills
-- JavaScript / Node.js / Express.js / Nest.js
+- Java / Spring Boot / Spring Framework
+- Node.js / Express.js / Nest.js
 - Python
-- Java
-- DBMS / MongoDB / Mongoose
-- REST API
-- React.js / React Hooks / Redux Toolkit
+- DBMS / Postgres / MySQL / Spring JPA / Hibernate / MongoDB / Mongoose
+- WEB SERVICES / REST API
+- JavaScript / React.js / React Hooks / Redux Toolkit
 - HTML5 / CSS3 / SASS/SCSS
 
 ## Tools & APIs
-- Git / Version Control
+- Git / GitLab / GitHub
+- Maven / Gradle
+- NPM
 - Postman
+- Swagger
 - Nodemailer
 - Stripe API
 - OAuth 2.0 API
