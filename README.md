@@ -8,7 +8,7 @@ Software Developer with focus on backend.
 - Java / Spring Boot / Spring Framework
 - Node.js / Express.js / Nest.js
 - Python
-- DBMS / Postgres / MySQL / Spring JPA / Hibernate / MongoDB / Mongoose
+- DBMS / Postgres / MySQL / MongoDB
 - WEB SERVICES / REST API
 - JavaScript / React.js / React Hooks / Redux Toolkit
 - HTML5 / CSS3 / SASS/SCSS
