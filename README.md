@@ -28,3 +28,4 @@ Software Developer with focus on backend.
 
 ## Activity
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talehafandi&" alt="contribution stats" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talehafandi&langs_count=8" alt="contribution stats" /></p> -->
